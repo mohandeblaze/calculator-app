@@ -1,0 +1,24 @@
+{
+  "printWidth": 110,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "vueIndentScriptAndStyle": false,
+  "insertSpaceBeforeFunctionParenthesis": true,
+  "overrides": [
+    {
+      "files": [
+        "*.ts",
+        "*.js",
+        "*.tsx",
+        "*.jsx"
+      ],
+      "options": {
+        "tabWidth": 2,
+        "bracketSpacing": true,
+        "singleQuote": true
+      }
+    }
+  ]
+}
